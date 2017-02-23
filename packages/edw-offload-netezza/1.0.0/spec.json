@@ -2,7 +2,7 @@
     "name": "edw-offload-netezza-to-kudu",
     "version": "1.0.1",
     "description": "A pipeline for offloading data from Netezza into Kudu",
-    "label": "EDW Offload - Netezza to Kudu",
+    "label": "EDW Offloading - Netezza to Kudu",
     "author": "Cask",
     "org": "Cask Data, Inc.",
     "cdapVersion": "[4.0.1,4.2.0]",
