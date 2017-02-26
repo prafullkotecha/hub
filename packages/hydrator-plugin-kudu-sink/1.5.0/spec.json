@@ -5,7 +5,7 @@
   "author": "Cask",
   "org": "Cask Data, Inc.",
   "created": 1483495209,
-  "categories": [ "EDW Offloading" ],
+  "categories": [ "EDW Offload" ],
   "cdapVersion": "[4.0.0,4.1.0)",
   "actions": [
     {
