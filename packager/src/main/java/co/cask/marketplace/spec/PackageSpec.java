@@ -87,6 +87,10 @@ public class PackageSpec implements Validatable {
     return license;
   }
 
+  public LicenseInfo getLicenseInfo() {
+    return licenseInfo;
+  }
+
   public long getCreated() {
     return created;
   }
