@@ -2,8 +2,10 @@
   "specVersion": "1.0",
   "label": "MySQL JDBC Driver",
   "description": "The MySQL JDBC driver, version 5.1.39, as a Hydrator plugin.",
-  "author": "Cask",
-  "org": "Cask Data, Inc.",
+  "licenseInfo": {
+    "name": "Apache License, Version 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
   "created": 1473901763,
   "categories": [ "3rd-party-artifact" ],
   "actions": [
